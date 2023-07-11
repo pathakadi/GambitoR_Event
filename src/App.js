@@ -13,7 +13,7 @@ const Events = () => {
     backgroundPosition: "center" ,
     backgroundSize: "cover" ,
     width : "100vw" ,
-    height : "315vh" ,
+    height : "330vh" ,
   }
   let event = {
     marginTop : "5vh" ,
@@ -27,7 +27,8 @@ const Events = () => {
   }
   let timeAllImg = {
     width : "100vw" ,
-    zIndex : "-1" 
+    zIndex : "-1" ,
+    marginBottom : "15vh"
   }
   return (
     <>
