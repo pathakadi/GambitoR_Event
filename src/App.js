@@ -17,7 +17,8 @@ const Events = () => {
   }
   let event = {
     marginTop : "5vh" ,
-    width : "100vw"
+    width : "80vw" ,
+    marginLeft : "10vw"
   }
   let timeImg = {
     marginLeft : "35vw" ,
