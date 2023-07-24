@@ -1,10 +1,10 @@
 import React from 'react';
 import Navbar from './MyComponents/Navbar';
 import Footer from './MyComponents/Footer';
-import TimelineAll from "./MyComponents/TimelineAll.png";
-import Timeline from "./MyComponents/TIMELINE.png";
-import Event from "./MyComponents/Events.png";
-import bg from "./MyComponents/Background.png";
+import TimelineAll from "./MyComponents/images/TimelineAll.png";
+import Timeline from "./MyComponents/images/TIMELINE.png";
+import Event from "./MyComponents/images/Events.png";
+import bg from "./MyComponents/images/Background.png";
 
 const Events = () => {
   let MAIN = {
