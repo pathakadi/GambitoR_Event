@@ -1,6 +1,6 @@
 import React from 'react';
-import Logo from './FootLogo.png';
-import img from './FootIITR.png';
+import Logo from './images/FootLogo.png';
+import img from './images/FootIITR.png';
 import { FaFacebook, FaInstagram, FaTwitter, FaYoutube, FaLinkedin } from "react-icons/fa";
 import { BrowserRouter , Link } from 'react-router-dom';
 
